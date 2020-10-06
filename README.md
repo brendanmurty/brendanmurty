@@ -1,5 +1,3 @@
-Father of [Isla](https://murty.io/isla) and [Freya](https://murty.io/freya), Partner of [Ella](http://ellacondon.com/),
-Schnitzel Reviewer at [SchnitMyDadSays](http://schnitmydadsays.com/) and
-Lead Web Developer.
+Father, Lead Web Developer and Schnitzel Reviewer at [SchnitMyDadSays](http://schnitmydadsays.com/).
 
 I share my thoughts on [Twitter](https://twitter.com/brendanmurty), manage code on [GitHub](https://github.com/brendanmurty?tab=repositories) and play games on [Steam](http://steamcommunity.com/id/brendanmurty).
