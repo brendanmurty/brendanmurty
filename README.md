@@ -4,4 +4,4 @@ Father, Senior Software Engineer and Schnitzel Reviewer at 🍽️ [SchnitMyDadS
 
 Check out my 🌏 [website](https://brendan.murty.au), connect with me on 🏢 [LinkedIn](https://linkedin.com/in/brendanmurty) and find me on 👋 [Twitter](https://twitter.com/brendanmurty).
 
-View my [business card](https://github.com/brendanmurty/business-card): `npx brendanmurty`
+View my 📇 [business card](https://github.com/brendanmurty/business-card): `npx brendanmurty`
