@@ -1,13 +1,7 @@
-![](https://user-images.githubusercontent.com/608191/172973094-5ee4fc4a-d816-4bf2-a1eb-e7fc9dbada6c.jpg)
+![](https://user-images.githubusercontent.com/608191/172973305-6ed30f3c-51e9-4b11-b7c5-ca0f6ff015c7.jpg)
 
-Father, Senior Software Engineer and Schnitzel Reviewer at [SchnitMyDadSays](http://schnitmydadsays.com/).
+Father, Senior Software Engineer and Schnitzel Reviewer at 🍽️ [SchnitMyDadSays](http://schnitmydadsays.com/).
 
-- [Website](https://brendan.murty.au)
-- [LinkedIn](https://linkedin.com/in/brendanmurty)
-- [Twitter](https://twitter.com/brendanmurty)
+Check out my 🌏 [website](https://brendan.murty.au), connect with me on 🏢 [LinkedIn](https://linkedin.com/in/brendanmurty) and find me on 👋 [Twitter](https://twitter.com/brendanmurty).
 
-View my [business card](https://github.com/brendanmurty/business-card):
-
-```
-npx brendanmurty
-```
+View my [business card](https://github.com/brendanmurty/business-card): `npx brendanmurty`
