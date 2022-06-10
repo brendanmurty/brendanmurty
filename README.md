@@ -1,3 +1,11 @@
 Father, Senior Software Engineer and Schnitzel Reviewer at [SchnitMyDadSays](http://schnitmydadsays.com/).
 
-I share my thoughts on [Twitter](https://twitter.com/brendanmurty), manage code on [GitHub](https://github.com/brendanmurty?tab=repositories) and play games on [Steam](http://steamcommunity.com/id/brendanmurty).
+- [Website](https://brendan.murty.au)
+- [LinkedIn](https://linkedin.com/in/brendanmurty)
+- [Twitter](https://twitter.com/brendanmurty)
+
+View my [business card](https://github.com/brendanmurty/business-card):
+
+```
+npx brendanmurty
+```
