@@ -2,4 +2,4 @@
 
 Father, Lead Software Engineer at [Liquidise](https://liquidise.com/) and Schnitzel Reviewer at 🍽️ [SchnitMyDadSays](http://schnitmydadsays.com/).
 
-Check out my 🌏 [website](https://murty.au), connect with me on 🏢 [LinkedIn](https://linkedin.com/in/brendanmurty), find me on 👋 [Twitter](https://twitter.com/brendanmurty) or follow me on 👋 <a rel="me" href="https://mastodon.social/@murty">Mastodon</a>.
+Check out my 🌏 [website](https://murty.au) or connect with me on 🏢 [LinkedIn](https://linkedin.com/in/brendanmurty).
