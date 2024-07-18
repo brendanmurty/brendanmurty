@@ -2,4 +2,4 @@
 
 Father, Schnitzel Reviewer at [SchnitMyDadSays](http://schnitmydadsays.com/), [Software Engineering Manager and Technical Lead](https://murty.au/tags/Career/).
 
-Feel free to visit [my website at murty.au](https://murty.au), [view my website's code](https://github.com/brendanmurty/murty-website), or :office: [connect with me on LinkedIn](https://linkedin.com/in/brendanmurty).
+Feel free to visit [my website at murty.au](https://murty.au), [view my website's code](https://github.com/brendanmurty/murty-website), or [connect with me on LinkedIn](https://linkedin.com/in/brendanmurty).
