@@ -8,6 +8,8 @@
 
 🏢 LinkedIn: [brendanmurty](https://www.linkedin.com/in/brendanmurty)
 
+⚡ View my website's source code: [brendanmurty/bcm](https://github.com/brendanmurty/bcm)
+
 📃 Read my post: [My goals as an Engineering Manager](https://bcm.works/posts/20240630_manager-goals/)
 
 📃 Read my post: [Fixing software bugs without losing your mind](https://bcm.works/posts/20191116_fixing-software-bugs-without-losing-your-mind/)
