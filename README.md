@@ -1,6 +1,6 @@
 👋 I specialise in building and actively leading efficient software teams to architect scalable, well-defined technical solutions for organisations.
 
-✨ I'm currently looking for a new role as a full-time Technical Lead or Engineering Manager for a larger software team in an established company.
+✨ I'm currently looking for a new role as a full-time Technical Lead, Engineering Manager of Senior Software Engineer in an established company.
 
 🌐 Website: [bcm.works](https://bcm.works)
 
