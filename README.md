@@ -4,7 +4,7 @@
 
 🌐 Website: [bcm.works](https://bcm.works)
 
-📫 Contact Me: [Google Form](https://forms.gle/CN2YdJ5bz4D8n74j7)
+📫 Contact Me: [brendan@bcm.works](mailto:brendan@bcm.works)
 
 🏢 LinkedIn: [brendanmurty](https://www.linkedin.com/in/brendanmurty)
 
